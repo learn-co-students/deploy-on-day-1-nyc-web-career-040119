@@ -1549,6 +1549,7 @@ h3#comments {
     font-size: 13px;
     border-top: dotted 1px #e6e6e6;
     padding-top: 8px;
+    align-content: center;
 }
 
 .services ul{
